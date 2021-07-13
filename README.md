@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchains and decentralised networks
 - 🌱 I’m currently learning PyQT on Python-3.x.x
 - 💞️ I’m looking to collaborate on Harpo
-- 📫 How to reach me cdemmmenie@gmail.com
+- 📫 How to reach me: cdemmmenie AT gmail DOT com
 
 <!---
 Demmenie/Demmenie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
