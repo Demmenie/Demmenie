@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Demmenie
 - 👀 I’m interested in Databases, AI and Decentralised Networks
-- 🌱 I’m currently learning sqlite3 on Python-3.x.x
-- 💞️ I’m looking to collaborate on Harpo
+- 🌱 I’m currently learning mongoDB on Python-3.x.x
+- 💞️ I’m looking to collaborate on Aethra
 - 📫 How to reach me: cdemmmenie AT gmail DOT com
 
 <!---
